@@ -58,7 +58,7 @@ function posicaoRandomica()
         }
         else
         {
-            document.getElementById('v'+vidas).src = "../images/coracao_vazio.png"
+            document.getElementById('v'+vidas).src = 'images/coracao_vazio.png'
             vidas++
         }
     }
